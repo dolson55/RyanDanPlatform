@@ -1,0 +1,8 @@
+NoSQL vs SQL
+https://www.upwork.com/hiring/data/sql-vs-nosql-databases-whats-the-difference/
+
+Mean Stack
+http://www.codingdojo.com/what-is-the-mean-stack
+
+Web Crawler
+http://www.netinstructions.com/how-to-make-a-simple-web-crawler-in-javascript-and-node-js/
